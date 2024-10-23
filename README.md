@@ -12,3 +12,7 @@ npm install gatsby-source-ethereum
 ## How to use
 
 TBA
+
+# Development Notes
+
+https://github.com/gatsbyjs/creating-source-plugin-tutorial
